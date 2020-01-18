@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegaCinemaBot", "ConsoleApp3\TelegaCinemaBot.csproj", "{69E66872-99F7-4DB6-A1AB-C83FBD0241B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegaCinemaRouletteBot", "ConsoleApp3\TelegaCinemaRouletteBot.csproj", "{69E66872-99F7-4DB6-A1AB-C83FBD0241B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
